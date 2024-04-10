@@ -1,0 +1,23 @@
+      /* pa ir moviendo cosas con copy paste relax a prueba de troleadas */
+      
+      /*<link rel="stylesheet" href="../CSS/style.css">  -------------------------------------------------------pa linkear html al css, se chanta en <head> */
+      
+      /* pa la sucia "Ñ" */      
+      &ntilde; (for lowercase ñ)
+      &Ntilde; (for uppercase Ñ)
+      
+        
+      /* Acentos */
+      &aacute; (á)
+      &eacute; (é)
+      &iacute; (í)
+      &oacute; (ó)
+      &uacute; (ú)
+      &agrave; (à)
+      &egrave; (è)
+      &igrave; (ì)
+      &ograve; (ò)
+      &ugrave; (ù)
+      &ｬ; (ä)
+      &ouml; (ö)
+      &uuml; (ü)      
