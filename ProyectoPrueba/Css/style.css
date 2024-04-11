@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.navbar {
+  display: flex; 
+  justify-content:flex-end; 
+  align-items:center;
+}
+
+.navbar ul {
+  list-style: none; 
+  display:flex; 
+}
+
+.navbar ul li {
+  margin: 0 50px; }
+
+.navbar ul li a {
+  text-decoration: none;
+  color: #383333; 
+}
+
+.carousel-container {
+    max-width: 600px; 
+    margin: 60px;; 
+  }
+  
+  .carousel-inner {
+    width: 100%; 
+  }
+  
+  .carousel-item img {
+    max-width: 100%; 
+    height: auto; 
+  }
