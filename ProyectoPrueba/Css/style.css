@@ -1,78 +1,62 @@
-
-/* INDEX ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
 *{
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style:  none;
 }
 
 
-.body_index {
-    text-align: center;
+body {
     font-family: sans-serif;
+    background-color: #292727;
     
 }
-.navbar_index {
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.header{
+  background-image: url(/ProyectoPrueba/Img/413986235_867668735361411_4465810863854860975_n.jpg);
+}
+.Logo{
+  display: flex;
+  margin: 60;
+  max-width:  200px;
+  justify-content: center;
+
+
+}
+
+.navbar {
   display: flex; 
   justify-content:flex-end; 
   align-items:center;
 }
 
-.navbar_index ul {
+.navbar ul {
   list-style: none; 
   display:flex; 
 }
 
-.navbar_index ul li {
+.navbar ul li {
   margin: 0 50px; }
 
-.navbar_index ul li a {
+.navbar ul li a {
   text-decoration: none;
   color: #383333; 
 }
 
-.carousel-container_index {
+.carousel-container {
     max-width: 600px; 
     margin: 60px;; 
   }
   
-  .carousel-inner_index {
+  .carousel-inner {
     width: 100%; 
   }
   
-  .carousel-item_index img {
+  .carousel-item img {
     max-width: 100%; 
     height: auto; 
   }
-/* CARRO COMPRA ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_carro_compra{
-  background-color: #ffffff;
-}
-/* COMO COMPRAR ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_como_comprar{
-  background-color: #ffffff;
-}
-/* CUENTA ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_cuenta{
-  background-color: #ffffff;
-}
-/* OFERTAS ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_ofertas{
-  background-color: #ffffff;
-}
-/* PAGO ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_pago{
-  background-color: #ffffff;
-}
-/* PRODUCTOS ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
-.body_productos{
-  background-color: #ffffff;
-}
-/* TERMINOS Y CONDICIONES ---------------------------------------------------------------------------------------------------------------------------------------------------------- */
-.body_productos{
-  background-color: #ffffff;
-}
-
-
