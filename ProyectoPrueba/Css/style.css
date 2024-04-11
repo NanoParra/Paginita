@@ -1,46 +1,78 @@
+
+/* INDEX ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
 *{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
 
-body {
+.body_index {
     text-align: center;
     font-family: sans-serif;
     
 }
-.navbar {
+.navbar_index {
   display: flex; 
   justify-content:flex-end; 
   align-items:center;
 }
 
-.navbar ul {
+.navbar_index ul {
   list-style: none; 
   display:flex; 
 }
 
-.navbar ul li {
+.navbar_index ul li {
   margin: 0 50px; }
 
-.navbar ul li a {
+.navbar_index ul li a {
   text-decoration: none;
   color: #383333; 
 }
 
-.carousel-container {
+.carousel-container_index {
     max-width: 600px; 
     margin: 60px;; 
   }
   
-  .carousel-inner {
+  .carousel-inner_index {
     width: 100%; 
   }
   
-  .carousel-item img {
+  .carousel-item_index img {
     max-width: 100%; 
     height: auto; 
   }
+/* CARRO COMPRA ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_carro_compra{
+  background-color: #ffffff;
+}
+/* COMO COMPRAR ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_como_comprar{
+  background-color: #ffffff;
+}
+/* CUENTA ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_cuenta{
+  background-color: #ffffff;
+}
+/* OFERTAS ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_ofertas{
+  background-color: #ffffff;
+}
+/* PAGO ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_pago{
+  background-color: #ffffff;
+}
+/* PRODUCTOS ----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.body_productos{
+  background-color: #ffffff;
+}
+/* TERMINOS Y CONDICIONES ---------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.body_productos{
+  background-color: #ffffff;
+}
+
+
